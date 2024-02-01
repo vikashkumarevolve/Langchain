@@ -1,1 +1,1 @@
-openai_key='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'
+openai_key='sk-'
